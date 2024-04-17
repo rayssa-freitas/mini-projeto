@@ -8,7 +8,6 @@ Desenvolver uma API de um servidor para uma Papelaria. Onde o colaborador catalo
 Utilizei o CRUD(Create, Read, Update, Delete) para demonstrar a manipulação dos dados dentro desse servidor, além do Middleware para adicionar funcionalidades, bem como, o framework web Express para a comunicação com a API.
 
 ## Diagrama
-<br>
 ![image](https://github.com/rayssa-freitas/mini-projeto/assets/149340917/85303c9e-f6a0-484e-8639-fbbf7f2d9d8a)
 <br>
 
