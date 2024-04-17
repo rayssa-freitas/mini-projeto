@@ -3,11 +3,15 @@
 ## Descrição
 Este é o primeiro mini-projeto do curso Floripa mais Tec, desevolvido por Rayssa Maciel de Freitas da turma TRIP. O mini-projeto consiste na criação de uma API de consultas, utilizando o método CRUD, Middleware, JavaScript e Node.js.
 
-## Objetivo:
+## Objetivo
 Desenvolver uma API de um servidor para uma Papelaria. Onde o colaborador cataloga os dados dos produtos em seu sistema, o qual está em comunicação com o Banco de Dados.
 Utilizei o CRUD(Create, Read, Update, Delete) para demonstrar a manipulação dos dados dentro desse servidor, além do Middleware para adicionar funcionalidades, bem como, o framework web Express para a comunicação com a API.
 
-## Teste Postman:
+## Diagrama
+<br>
+![image](https://github.com/rayssa-freitas/mini-projeto/assets/149340917/85303c9e-f6a0-484e-8639-fbbf7f2d9d8a)
+<br>
+## Teste Postman
 Lista criada
 <br>
 ![image](https://github.com/rayssa-freitas/mini-projeto/assets/149340917/22ca221e-d9f2-48e1-a6e5-28c90efa265f)
@@ -40,6 +44,6 @@ Deletando produto Id 2
 
 
 
-## Créditos:
+## Créditos
 Desenvolvido por:
 Rayssa Maciel de Freitas
